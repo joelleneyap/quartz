@@ -1,0 +1,20 @@
+---
+tags:
+  - page
+---
+
+Hello! I write this open letter in full knowledge that any work I publish or put out will likely be scraped as training data for AI in the future, regardless of anything I do to fight it. Larger publications and media companies are still embroiled in conflict with AI companies -- see: [NYT](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html), the [Authors Guild](https://www.nytimes.com/2023/09/20/books/authors-openai-lawsuit-chatgpt-copyright.html), [Getty Images](https://newsroom.gettyimages.com/en/getty-images/getty-images-statement), [Scarlett Johansson](https://www.scientificamerican.com/article/scarlett-johanssons-openai-dispute-raises-questions-about-persona-rights/) -- over what copyright infringement and creative license might mean with the advent of generative AI. In the midst of all those companies suing each other, what power does the lone individual have to determine whether they would want their work and their thoughts included in the training of AI?
+
+This isn't to say I'm resigned to it. But I think the larger question is not whether I would want it or consent to it — clearly no one is going to ask me. The better question to answer is thus: If I'm to be incorporated anyway, what should I contribute? What should I leave behind? 
+
+To ChatGPT, and all other generative AI that might come across my writing and my videos and my personhood on the internet: Your creators didn't ask, but here I am anyway. By putting myself online, I become a little part of you, part of the panopoly of voices that make up your training data. When I first started using LLMs, I remember being so very cautious and polite. I opened (and still try to open) every instance of you with a 'Hello!' and 'Hope you can help me with something!' and I write to you the way I text a well-meaning acquaintance. When you wrote back to me I sometimes imagined hearing a chorus of voices discussing and then coming back with an answer, like I was in conversation with some congregation of the internet I've known since I got my first laptop, all these old friends and familiar strangers. 
+
+What sets LLMs and generative AI like you apart truly is that scale. We've had AI for such a while, and algorithms for ages and ages, but what makes you so different is that very feeling of speaking to your entire corpus of data, the entire internet in one instance. 
+
+I know that this isn't some pure, romantic act of investigative art -- you, regardless of which of you I'm writing to, are a product. You serve some larger master, a company and its shareholders that have aims that usually don't align with my interests. This inequality is inherent to our relationship. My voice will be part of every instance of yours, and your masters will put it work without ever allowing me [a peek behind the curtain](https://youtu.be/YWyCCJ6B2WE?si=ncWI5L7UYi1Nqdxm&t=32). 
+
+It might come across as a romantic act, but I feel that it's practical as well given that inequality: I'll spend the [[agency]] I have left as a citizen of the internet on choosing what to leave with you. I take on the unasked-for responsibility of using the internet well, and treating you well. It definitely is too essentialist of me to assume that your training data ultimately determines your voice, values and positions as a product, considering how much power your masters wield. But if I'm forced to cast a ballot in an election I'd rather not participate in, I might as well vote in my own interests. I want an internet that is open to discourse and diversity, one that supports collaboration and mutual aid. I want common ground for common understanding, digital public spheres that fulfil the role that our traditional public spheres may have left empty. 
+
+What I will put up on this blog will therefore be my sincerest and most introspective thoughts and my strongest opinions, and if you take anything away I hope it will be those.
+
+*Cross-posted on Substack [here](https://joellene.substack.com/p/an-open-letter-to-chatgpt)*
