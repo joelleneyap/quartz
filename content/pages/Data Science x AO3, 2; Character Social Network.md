@@ -100,4 +100,4 @@ That's interesting in comparison to, say, the Marauders fandom, which has Sirius
 
 **[Here's the link](https://deepnote.com/workspace/ao3-cdb24469-2834-4827-96fb-17793ac7554f/project/AO3-x-NetworkX-ebe988dc-072f-4e99-a43e-95707726522c/notebook/networkx-03b703c2181e4ca8b2f0c873f2ca863f)** to the notebook where you can find the interactive graph! Feel free to play around with it and let me know what else you observe! That's all for now. :)
 
-Part 1 of this series on DSxAO3: [[**Data Science x AO3, 1; Spikes in Published Fics**]]
+Part 1 of this series on DSxAO3: **[[Data Science x AO3, 1; Spikes in Published Fics]]**
