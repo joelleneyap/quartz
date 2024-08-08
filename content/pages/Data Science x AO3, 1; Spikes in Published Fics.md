@@ -69,7 +69,7 @@ So there's a trend with the spikes being related to some other archive being imp
 Here's the list of fandoms with counts for fic put out on that day:
 ![[Screenshot 2024-07-19 at 8.48.35 PM.png]]
 
-It's obvious that this is a different case now -- the fics that are being added aren't from one specific fandom. Here's a bar chart with the top 20 fandoms from that day:
+It's obvious that this is a different case now — the fics that are being added aren't from one specific fandom. Here's a bar chart with the top 20 fandoms from that day:
 ![[output 9.17.46 PM.png]]
 
 I was stumped for like a whole day, because I kept googling "AO3", "imported" around the time of May 16, 2014, but kept coming up with nothing even though that worked for the previous 2 cases. I even made this little table that shows the top 5 dates with most fanfic posted on AO3 in 2014: 
