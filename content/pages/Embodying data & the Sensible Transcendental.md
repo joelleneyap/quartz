@@ -1,6 +1,7 @@
 ---
 tags:
   - page
+date: 7/8/24
 ---
 _Trigger warning: SA, skip first 2 paragraphs_
 

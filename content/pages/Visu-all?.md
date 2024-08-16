@@ -2,6 +2,7 @@
 tags:
   - page
 title: Visu-all?
+date: 7/8/24
 ---
 In April this year, I went on a trip to Yosemite Valley with a couple college friends. While hiking to Columbia Rock, we caught up to these two women hiking the same way up, blaring club music from a phone tucked into one of their pockets. I remember feeling jarred, and then annoyed. Spring in Yosemite is supposed to look green, sunny and lush -- and it's also supposed to *sound* that way, all chirping birdsong and the roaring rush of waterfalls. We ended up speeding up to lose the two women and their technobeats.
 

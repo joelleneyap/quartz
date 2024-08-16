@@ -1,6 +1,7 @@
 ---
 tags:
   - page
+date: 7/8/24
 ---
 ## **Design Intervention:** [**Accountability Agent**](https://chat.openai.com/g/g-scgpspAwt-accountability-agent)
 

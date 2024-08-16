@@ -1,6 +1,7 @@
 ---
 tags:
   - page
+date: 7/8/24
 ---
 
 My name is Joellene. There are about two extra letters in there that make it confusing — it's pronounced Jolene, like [the Dolly Parton song](https://www.youtube.com/watch?v=Ixrje2rXLMA). I've had people pronounce it Jo-Ellen, Joelle-lene, Joel-ene and so on, especially in contexts where people don't really know me and are just going off the spelling, like at Starbucks when they give you your drink. But when it really matters, like when you're graduating and walking across the stage to receive a little rolled-up piece of paper that actually isn't your diploma: I'd rather a human completely butcher my name, than hear it from a text-to-speech machine.

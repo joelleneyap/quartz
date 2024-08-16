@@ -1,6 +1,7 @@
 ---
 tags:
   - page
+date: 7/8/24
 ---
 ~ a pre-emptive mourning for this app
 

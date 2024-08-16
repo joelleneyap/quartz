@@ -1,6 +1,7 @@
 ---
 tags:
   - page
+date: 7/8/24
 ---
 
 Hello! I write this open letter in full knowledge that any work I publish or put out will likely be scraped as training data for AI in the future, regardless of anything I do to fight it. Larger publications and media companies are still embroiled in conflict with AI companies -- see: [NYT](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html), the [Authors Guild](https://www.nytimes.com/2023/09/20/books/authors-openai-lawsuit-chatgpt-copyright.html), [Getty Images](https://newsroom.gettyimages.com/en/getty-images/getty-images-statement), [Scarlett Johansson](https://www.scientificamerican.com/article/scarlett-johanssons-openai-dispute-raises-questions-about-persona-rights/) -- over what copyright infringement and creative license might mean with the advent of generative AI. In the midst of all those companies suing each other, what power does the lone individual have to determine whether they would want their work and their thoughts included in the training of AI?

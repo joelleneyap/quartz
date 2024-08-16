@@ -5,6 +5,7 @@ tags:
   - collage
 ---
 ### [The Expanded Present](https://twitter.com/divine_economy/status/1584603692224761856 ) by david phelps
+Tweet:
 * 1/13 so i tripped balls this weekend and had a vision of something i'm calling The Expanded Present. and i wanted to share it in case it's as helpful to anyone else as it is for me:
 * 2/ a preface: when you're tripping balls, you can feel like you're cocreating your reality, bilingual in the languages of God and Earth. then you come down, courting ridicule, struggling to articulate ridiculous ideas in the clunky vernacular of us mortals. but lemme try
 * 3/ we normally think of The Present as our current space and time—and struggle to connect to this fleeting instant. the Expanded Present is something else. it's the psychological terrain where you're alive when anyone is thinking about you. we live and die 1000 lives there.
@@ -37,7 +38,7 @@ Celidwen, 2021: an ethics of belonging, that we **share a fundamental sameness w
 
 <> being embodied
 
-Associated experiences
+**Associated experiences**
 * Standing in the eucalyptus grove at Cal, seeing the way the golden light filters through the canopy, the peeling tans and browns of the trunks, all the way to the dry crackle of dead foliage underfoot
 	* When the world hums, and it's almost like you could hear what it's saying
 * The roar of a waterfall in Yosemite's spring, and the answering silence in my mind. I'm just a drop tumbling over the rocks

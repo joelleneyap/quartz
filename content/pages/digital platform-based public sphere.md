@@ -2,6 +2,7 @@
 tags:
   - page
 draft: false
+date: 7/8/24
 ---
 > *Originally written as a final essay for UC Berkeley's Media Studies 113: Media & Democracy*
 

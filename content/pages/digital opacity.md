@@ -2,6 +2,7 @@
 tags:
   - page
 draft: false
+date: 7/8/24
 ---
 > *Originally written as a final project for UC Berkeley's flagship data ethics class, Data 104: Human Contexts & Ethics*
 

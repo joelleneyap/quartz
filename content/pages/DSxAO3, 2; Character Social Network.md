@@ -3,8 +3,9 @@ draft: false
 tags:
   - page
 title: "[DSxAO3] 2: Character Social Network"
+date: 8/8/24
 ---
-Part 2 of my Data Science x AO3 series!
+*Part 2 of my Data Science x AO3 series!*
 
 I've been obsessed with using a package called [NetworkX](https://networkx.org/documentation/stable/index.html) to create visualizations of social networks ever since taking a demography class at Cal that used it to model the friendships, communities, and even the spread of disease. I tried my hand at it when I was part of Data Science Society at Cal, and made this pretty cool social network graph of the club's members and their friendships. **You can find it [here](https://deepnote.com/workspace/dss-decal-67829aaa-bc97-418a-9cdc-52e6c221fe85/project/DSS-Mentor-Project-2325048d-5055-4511-9f4b-e44132021c67/notebook/Networks%20Analysis-a485c62c5cd7412d87b230b38a8763e2), and it contains a mock pandemic simulation too.** A major learning point from that experience was learning how to turn the NetworkX graph into an interactive bokeh visualization that you can zoom in and out on, hover over for node labels, etc. 
 
@@ -100,4 +101,4 @@ That's interesting in comparison to, say, the Marauders fandom, which has Sirius
 
 **[Here's the link](https://deepnote.com/workspace/ao3-cdb24469-2834-4827-96fb-17793ac7554f/project/AO3-x-NetworkX-ebe988dc-072f-4e99-a43e-95707726522c/notebook/networkx-03b703c2181e4ca8b2f0c873f2ca863f)** to the notebook where you can find the interactive graph! Feel free to play around with it and let me know what else you observe! That's all for now. :)
 
-Part 1 of this series on DSxAO3: **[[Data Science x AO3, 1; Spikes in Published Fics]]**
+Part 1 of this series on DSxAO3: **[[DSxAO3, 1; Spikes in Published Fics]]**
