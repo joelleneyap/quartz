@@ -46,7 +46,9 @@ Currently playing with an idea of making a social network but for fandoms instea
 
 ----
 [Public interactive Deepnote for this article](https://deepnote.com/workspace/ao3-cdb24469-2834-4827-96fb-17793ac7554f/project/AO3-x-NetworkX-ebe988dc-072f-4e99-a43e-95707726522c/notebook/AO3%3A%20fic%20lengths-d038f08f2cd04613a0e30b8df5daeeea)
+
 [Code](https://github.com/joelleneyap/fandomstudies/blob/main/fic_length.ipynb)
 
 [[DSxAO3, 1; Spikes in Published Fics]]
+
 [[DSxAO3, 2; Character Social Network]]

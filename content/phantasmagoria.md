@@ -3,8 +3,6 @@ draft: false
 tags:
   - motif
 ---
-
-
 **Mirzoeff, Nicholas.  Chapter 3: "Visuality: Authority and War" in The Right to Look: A Counterhistory of Visuality (2011)**
 * Phantasmagoria = First incarnated as an entertainment projecting ghosts and other specters by Philidor
 	* A name for a specific type of magic-lantern performance in the 1790s and early 1800s, one that used back projection to keep an audience unaware of the lanterns.

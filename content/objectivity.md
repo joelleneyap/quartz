@@ -11,3 +11,8 @@ draft: true
 * objectivity in ms111c
 	* object vs subject
 	* objectivity in the machine
+
+
+objectivity: validation vs verification 
+
+https://vt.tiktok.com/ZS2YTYWNG/
