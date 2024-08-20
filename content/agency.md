@@ -20,7 +20,7 @@ As a Singaporean with one of the most powerful passports in the world, with a US
 A couple things holding up my choices for high agency:
 1. **I think most things are a [[skill issue]].** 
 	1. Maybe I'm drinking the [RGS Girl kool-aid](https://www.rgs.edu.sg/programmes/teaching-learning/), but I really do think most things are a problem of effort and skill. And even if they aren't, I benefit from the attitude of learning through iteration and analysis. Lifelong learning!
-2. **Remembering that [[collaboration > competition**]], and that I can reach my goals without:
+2. **Remembering that [[collaboration > competition]]**, and that I can reach my goals without:
 	1. taking the predefined route, or
 	2. grinding in the rat race
 3. **Bird's eye view > tunnel vision**
