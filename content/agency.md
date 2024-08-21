@@ -4,7 +4,7 @@ tags:
   - motif
 date: 8/20/24
 ---
-## What does it mean to lead a **high agency life**? 
+## What does it mean to lead a high agency life? 
 I think that being high agency is both a circumstance and a choice:
 1. Circumstance: Having the ability, the privilege, the mobility and the opportunities to take the reins of your life
 2. Choice: Making consistent choices to take the reins
@@ -27,6 +27,6 @@ A couple things holding up my choices for high agency:
 	1. The tunnel isn't the only way! I have lots of choices, **choosing to make more choices for myself is also a choice**! I can choose to open my own doors, or choose a window and not a door
 		1. AKA: catastrophizing is not helpful
 	2. EG: just because I'm working full-time in the US, doesn't mean that I definitively chose my career over my family, that I'll never see them again or that I'll cut off my ties to my home. 
-4. High agency ≠ individualism
+4. **High agency ≠ individualism**
 	1. Most problems are people problems, and those are also a [[skill issue]]
 	2. Choose the happy chaos of community over the individually-controlled routine

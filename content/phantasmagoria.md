@@ -2,6 +2,7 @@
 draft: false
 tags:
   - motif
+date: 7/30/24
 ---
 **Mirzoeff, Nicholas.  Chapter 3: "Visuality: Authority and War" in The Right to Look: A Counterhistory of Visuality (2011)**
 * Phantasmagoria = First incarnated as an entertainment projecting ghosts and other specters by Philidor

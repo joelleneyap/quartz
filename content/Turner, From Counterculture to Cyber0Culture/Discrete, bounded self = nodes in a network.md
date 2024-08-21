@@ -2,7 +2,7 @@
 tags:
   - clipping
 ---
-Source: [[From Counterculture to Cyberculture (Fred Turner)]]
+Source: [[Turner, From Counterculture to Cyberculture]]
 ## Quotes
 -> employees are 'empowered' to do work, not have a job
 > a shift in the basis of employment from long-term positions to shorter-term projects, by the leveling of corporate hierarchies, and by the integration of activities across multiple industries

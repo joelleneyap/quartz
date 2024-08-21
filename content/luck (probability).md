@@ -3,6 +3,7 @@ title: luck & probability
 tags:
   - collage
 draft: false
+date: 7/30/24
 ---
 Personal goal: Increasing the surface area for luck in my life! I feel like I've always relied on hard work as a way to achieve my goals (Chance II), and so it's been hard to accept that sometimes I can get lucky (Chance I), or that I can work to get luckier. But maybe all I need is that tilt of your head that shifts your perspective: luck could be a [[skill issue]], or a probability game.
 

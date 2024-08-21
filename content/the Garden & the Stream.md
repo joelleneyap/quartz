@@ -1,3 +1,11 @@
+---
+draft: false
+date: 7/30/24
+title: the Garden & the Stream
+tags:
+  - motif
+---
+
 I'm drawing mainly from [Mike Caulfield's keynote speech for dLRN 2015](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) here, though there are many other sources for this.
 
 > The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another.

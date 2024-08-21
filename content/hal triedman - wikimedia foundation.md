@@ -2,6 +2,7 @@
 draft: false
 tags:
   - clipping
+date: 8/20/24
 ---
 
 how do tell the world about data you cannot show them?

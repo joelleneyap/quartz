@@ -3,6 +3,7 @@ title: you are the glue-sticked collage
 draft: false
 tags:
   - collage
+date: 7/30/24
 ---
 ### [The Expanded Present](https://twitter.com/divine_economy/status/1584603692224761856 ) by david phelps
 Tweet:

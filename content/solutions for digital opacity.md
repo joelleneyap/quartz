@@ -2,6 +2,7 @@
 tags:
   - collage
 draft: false
+date: 7/30/24
 ---
 > main argumentation & def for opacity: [[digital opacity]]
 

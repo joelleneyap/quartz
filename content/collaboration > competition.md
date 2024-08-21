@@ -3,6 +3,7 @@ draft: false
 title: collaboration > competition
 tags:
   - diary
+  - motif
 ---
 I owe so much to my competitive drive. Competing against others and myself / my own past performance has pushed me to do better and do more at every stage of my life to date. It makes me feel like I *should* achieve, because those achievements reflect on my worth as an individual.
 
