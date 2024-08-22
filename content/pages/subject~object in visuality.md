@@ -37,6 +37,7 @@ Beyond making the self into an object, we move to Descartes, who argued for the 
 
 ### Objectifying the exotic + reflecting the European self
 Finally, from [Schmidt](https://www.pennpress.org/9780812224504/inventing-exoticism/), the most global visuality looked beyond European shores to the exotic world. **This gaze, again, makes objects of the peoples and places it lands on.** Van Meurs' atelier, for example, was known for its catalogue-style layouts of artefacts from exotic places — these allowed the sense of collectibility that led to cabinets of curiosities. 
+
 ![[Screenshot 2024-08-20 at 9.20.03 PM.png | 500]]
 <small>“Goude cieraeden, opgedolven uit aloude Tartersche <em>[sic]</em> graven in Siberien” (etching), in Nicolaes Witsen, <em>Noord en Oost Tartarye, ofte bondig ontwerp van eenige dier landen en volken, welke voormaels bekent zijn geweest</em>, 2nd ed. (Amsterdam, 1705; 1st ed. 1692). Special Collections, University of Amsterdam. 
 </n>
