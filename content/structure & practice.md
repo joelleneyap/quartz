@@ -17,8 +17,8 @@ Another inspiration was Jacky Zhao's approach to [networked thought](https://jzh
 The image of a collage, too, brings me to materiality, and [[maintenance over innovation]]: I've been journalling regularly since I was 16, and there's something really grounding about the physicality of it. I fill the pages with my words and thoughts, yes, but I've always taken so much pleasure in collecting little bits and pieces of my life and pasting them in. Movie tickets, receipts, stickers, tea bag packaging, make-up packaging, ang-paos, airplane boarding passes... and that's not even mentioning the countless handwritten notes and letters from friends and family that are nestled within my books too.
 
 > My bullet journalling practice is more than diary-keeping — it's collective and collectivist, a hoarded pile of sentiment in material form. And I'd like to see this site as an extension of that practice
-
-> **insert pics**
+![[IMG_9277.jpg]]
+![[IMG_9278.jpg]]
 
 That's why I've chosen not to draw on the more common metaphors for digital gardens. For example, Jacky Zhao has his notes [categorized](https://jzhao.xyz/posts/networked-thought) into seeds > saplings > trees > evergreen, etc. with the implication that seeds might grow into trees. Instead, I'm going for something that doesn't evoke linear growth, but instead an assembly, archive, collection.
 

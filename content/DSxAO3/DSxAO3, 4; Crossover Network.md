@@ -2,9 +2,11 @@
 tags:
   - page
 date: 8/21/24
-draft: true
+draft: false
 title: "[DSxAO3] 4: Crossover Network"
 ---
+*Part 3 of my Data Science x AO3 series!*
+
 This was actually the next thing I wanted to work on after doing [[DSxAO3, 2; Character Social Network]], partly because I wasn't really satisfied with the way it showed ships. Nodes were often entirely stacked on top of each other to form one 'node pairing' representing a ship, because of how often some characters were shipped with others. I realized what I actually wanted to see was contingent on the fandom — whether some had denser relationships than others. That led me to think about crossovers! Because I think the most interesting outcome of the above experiment would have been to see characters shipped together but from two different fandoms, like Harry Potter x Loki for example.
 
 So this time:
@@ -57,5 +59,24 @@ Here's what it looks like with the node size detached from degree:
 
 Upon further investigation though, other than that huge stack of nodes in the middle that's the MCU and related movies/shows/comics, the nodes are mostly still stacked on top of each other in paired clumps. 
 
+----
 ## Re-orient: Ego networks
-Maybe what I want is the ego network of a single node!
+Maybe what I want is the ego network of a single node! Something like:
+* The (0,0) node is the ego node: whatever fandom is in the title
+* The deeper the color, the more fics for that fandom
+* The further away from the ego node, the less works there are that tag both of them / the less crossovers
+
+![[Screenshot 2024-08-23 at 10.57.14 AM.png]]
+![[Screenshot 2024-08-23 at 11.06.02 AM.png]]
+
+The above two are very well-connected. Let's look at one that has less direct connections: 
+![[Screenshot 2024-08-23 at 11.08.07 AM.png]]
+
+Looks a bit sparse for Haikyuu!!, so I did some wiggling:
+![[Screenshot 2024-08-23 at 11.09.17 AM.png]]
+
+That looks better, but kind of messy. I might write another article explaining what I'm doing, but I'm increasingly feeling like not being able to directly put an interactive graph in Obsidian / Substack is a limitation. Also I'm reaching the limit of what I can put on Deepnote. In the meantime, I'm going to start learning Streamlit! So I can hopefully put something up that is a shareable web app with variable inputs, so you might be able to put in your own fandom, or test to see how 'connected' a fandom might be.
+
+A couple questions I’m thinking about
+* When I increase the 'radius' of an ego network — i.e. let more nodes in to display though they might be further from the ego — I keep ending up with the MCU and Harry Potter nodes becoming super close to the ego. To the point where I had to explicitly rule that the ego node would be at (0,0), if not the graph would end up looking like it was the ego network of MCU or Harry Potter instead. They're supplanting my central nodes! How and why?
+* Possibly because those two fandoms are popular for crossovers and also just popular in general. They have high degrees... maybe I can make something like the [Bacon Number game](https://oracleofbacon.org/)?
