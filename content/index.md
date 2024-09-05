@@ -10,8 +10,9 @@ I'm [[Jolene, Jo-Ellen, Joel-lene|Joellene]], and I graduated from UC Berkeley w
 Take your time, and take a stroll! Some pointers for places to start:
 * More on my [[structure & practice]] on this digi-journal site
 * Why grounding digital work in the [[Visu-all?|material and physical]] is so important to me, and what that has to do with [[maintenance over innovation]]
+* The [[AO3xNetworkX project!]]: my magnum opus of Summer 2024!
 * Some polished [[page|essays]] on digital mediums and science & tech studies
-* [[diary|Personal reflections and musings]]
+* [[diary|Personal reflections]] and [[motif|life motifs]]
 
 If you're up for anything, feel free to hop through the nodes on the graph at the bottom of this page!
 
