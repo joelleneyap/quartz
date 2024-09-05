@@ -2,6 +2,7 @@
 tags:
   - collage
 draft: false
+date: 8/20/24
 ---
 ### [Hail the Maintainers](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more)
 Innovation is overvalued: "Maintenance and repair, the building of infrastructures, the mundane labour that goes into sustaining functioning and efficient infrastructures, simply has more impact on people’s daily lives than the vast majority of technological innovations."

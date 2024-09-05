@@ -2,10 +2,9 @@
 draft: false
 tags:
   - clipping
+date: 8/20/24
 ---
-
 how do tell the world about data you cannot show them?
-privacy engineer
 
 ### wikimedia foundation (WMF)
 * nonproit
@@ -71,7 +70,7 @@ can we use DP to release pageview counts by both project *and* country?
 	* grants and grantees
 	* editors and edits
 	* search patterns
-	* banner impressions and click-throughs![[Screenshot 2023-05-07 at 3.36.28 PM.png]]
+	* banner impressions and click-throughs
 
 ### privacy
 * vibes: u know it when u feel it

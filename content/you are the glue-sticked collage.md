@@ -3,6 +3,7 @@ title: you are the glue-sticked collage
 draft: false
 tags:
   - collage
+date: 7/30/24
 ---
 ### [The Expanded Present](https://twitter.com/divine_economy/status/1584603692224761856 ) by david phelps
 Tweet:
@@ -37,8 +38,11 @@ Celidwen, 2021: an ethics of belonging, that we **share a fundamental sameness w
 	* ~ reverence for nature
 
 <> being embodied
+#### [[the cosmos, only communally]]
+> “**man can be in ecstatic contact with the cosmos only communally.** It is the dangerous error of modern men to regard this experience as unimportant and avoidable, and to consign it to the individual as the poetic rapture of starry nights.”
 
-**Associated experiences**
+humans as members of a habitat. we are creatures! we have habitats, we function within a system!
+#### Associated experiences
 * Standing in the eucalyptus grove at Cal, seeing the way the golden light filters through the canopy, the peeling tans and browns of the trunks, all the way to the dry crackle of dead foliage underfoot
 	* When the world hums, and it's almost like you could hear what it's saying
 * The roar of a waterfall in Yosemite's spring, and the answering silence in my mind. I'm just a drop tumbling over the rocks

@@ -3,6 +3,7 @@ draft: false
 date: 7/30/24
 tags:
   - page
+  - datasci
 title: "[DSxAO3] 1: Spikes in Published Fics"
 ---
 Part 1/?

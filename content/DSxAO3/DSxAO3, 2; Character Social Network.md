@@ -2,6 +2,7 @@
 draft: false
 tags:
   - page
+  - datasci
 title: "[DSxAO3] 2: Character Social Network"
 date: 8/8/24
 ---

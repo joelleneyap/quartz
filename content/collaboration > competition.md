@@ -3,6 +3,7 @@ draft: false
 title: collaboration > competition
 tags:
   - diary
+  - motif
 ---
 I owe so much to my competitive drive. Competing against others and myself / my own past performance has pushed me to do better and do more at every stage of my life to date. It makes me feel like I *should* achieve, because those achievements reflect on my worth as an individual.
 
@@ -19,12 +20,12 @@ Ways I practice opting out, because it really is such a work in progress:
 	* Really common conversation at Cal: "God, I'm so tired, I slept at 2am" / "I slept at 5am, and I've three midterms next week" —> when you swallow the competition kool-aid, you compete based on effort too. But this dialogue is just a bid for affirmation ("look how hard I worked! I can't fail, right?"), that doesn't necessarily need to conflict in the first place. Wouldn't everyone be happier if the reply was something more like, "That sounds so tough, are you okay?"
 * **I step off the track when it's not my game to win**
 	* I like to think that I'm long past the days when prestige was a big motivating factor for me. But I still did my best to recruit for MBB, and the thought of potentially working for a prestigious company still drew me in. 
-	* But part of my commitment to living with [[agency]] is to be intentional about my choices: Past the prestige and the desire to jump on the bandwagon because everyone recruiting for consulting tries for MBB — past all that, I came to the US to work in media. And got pushed into consulting because that was a way to get work authorization as an international student. Consulting is a stepping stone, and MBB/prestige doesn't matter as long as I get to work in some capacity adjacent to what I love
+	* But part of my commitment to living with [[agency]] is to be **intentional about my choices**: Past the prestige and the desire to jump on the bandwagon because everyone recruiting for consulting tries for MBB — past all that, I came to the US to work in media. And got pushed into consulting because that was a way to get work authorization as an international student. Consulting is a stepping stone, and MBB/prestige doesn't matter as long as I get to work in some capacity adjacent to what I love
 
 Some of this is inspired by the Buddhism of my childhood: those basic teachings that you're dissatisfied because you have desires / you're unhappy because you're pursuing happiness / you're trying to exercise control over the world when you could let go and find contentment. I'm stressed / unhappy / insecure *because* of the race, not because I lagged behind.
 
 ### Collaboration
-And (this might really only be motivating for me, but) the fact that competition is what fuels the systems of power that enforce inequality, means that being competitive is literally choosing the easy way out. It's so *easy*, to be whatever society has told you to be, to run the race it sets you on, to be victorious when it tells you to and to be downtrodden when it tells you to. It's so easy to be individualistic, to see yourself as a discrete entity, one good in a market of substitutes. 
+And (this might really only be motivating for me, but) the fact that competition is what fuels the systems of power that enforce inequality, means that being competitive is literally choosing the easy way out. **It's so *easy*, to be whatever society has told you to be, to run the race it sets you on, to be victorious when it tells you to and to be downtrodden when it tells you to.** It's so easy to be individualistic, to see yourself as a discrete entity, one good in a market of substitutes. 
 
 Collaboration is so much harder. And that might make it worthwhile. It's harder to achieve while not seeing it as a competition, to rise and grow when you don't let yourself step over and on others to do it. **It's harder to raise yourself while bringing everyone else with you, especially when you're told you don't have to or can't afford to.**
 

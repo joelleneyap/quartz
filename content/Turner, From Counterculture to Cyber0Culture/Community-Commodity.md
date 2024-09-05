@@ -2,7 +2,7 @@
 tags:
   - clipping
 ---
-Source: [[From Counterculture to Cyberculture (Fred Turner)]]
+Source: [[Turner, From Counterculture to Cyberculture]]
 ## Quotes
 > Thus, the rhetoric of community provided the ideological cover necessary to transform a potentially stark and single-minded market transaction into a complex, multidimensional act
 > To the extent that they could describe themselves as the givers and receives of informational gifts within a community, members of the WELL could simultaneously recognize and ignore the degree to which they were also exchanging financially valuable goods within a newly informational economy

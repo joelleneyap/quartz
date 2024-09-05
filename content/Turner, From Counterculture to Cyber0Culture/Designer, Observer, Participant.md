@@ -2,7 +2,7 @@
 tags:
   - clipping
 ---
-Source: [[From Counterculture to Cyberculture (Fred Turner)]]
+Source: [[Turner, From Counterculture to Cyberculture]]
 ## Quotes
 > On the WELL, McClure, Figallo and Coate balanced both traditions, playing on the roles of designer, observer and participant simultaneously and drawing on both cybernetic and communal models in their management practice
 

@@ -2,7 +2,7 @@
 tags:
   - clipping
 ---
-Source: [[From Counterculture to Cyberculture (Fred Turner)]]
+Source: [[Turner, From Counterculture to Cyberculture]]
 
 ## Quotes
 Eden:
