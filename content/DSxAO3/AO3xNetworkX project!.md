@@ -2,7 +2,6 @@
 draft: false
 tags:
   - collage
-  - page
   - datasci
 date: 9/5/2024
 ---
