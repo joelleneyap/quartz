@@ -1,0 +1,15 @@
+---
+draft: true
+date: 1/4/2025
+tags:
+  - clipping
+---
+https://www.nplusonemag.com/issue-49/essays/casual-viewing/
+
+One tag among Netflix’s thirty-six thousand microgenres offers a suitable name for this kind of dreck: “casual viewing.” Usually reserved for breezy network sitcoms, reality television, and nature documentaries, the category describes much of Netflix’s film catalog — movies that go down best when you’re not paying attention, or as the _Hollywood Reporter_ recently described _Atlas_, a 2024 sci-fi film starring Jennifer Lopez, “another Netflix movie made to half-watch while doing laundry.” A high-gloss product that dissolves into air. Tide Pod cinema.
+
+----
+In 2021 Netflix announced that it would start releasing a new original movie every week. A certain style soon began to take shape, a mind-numbing anticinema that anyone who has subscribed to Netflix in recent years knows by sight. I’ll call it the Typical Netflix Movie (TNM). From the outside, the TNM looks algorithmically constructed, as if designed to cater to each of Netflix’s two thousand “taste clusters,” the genre-like groupings Netflix uses to segment its audience, green-light programs, and recommend films and shows to subscribers. The TNM covers every niche interest and identity category in existence, such as a movie about a tall girl, _Tall Girl_, but also _Horse Girl_, _Skater Girl_, _Sweet Girl_, _Lost Girls_, and _Nice Girls_. Seemingly optimized for search engines, the title of a TNM announces exactly what it is — hence a romantic comedy about a wine executive called _A Perfect Pairing_, or a murder mystery called _Murder Mystery_. The opening credit sequence looks thrown together, as if its designer were playing roulette with Adobe templates in After Effects. A typical shot frames two characters, waist up, in profile as the camera slowly dollies across them, a slow and constant whir meant to inject motion into an otherwise inert frame. There is a preponderance of drone shots. The characters’ dialogue is stilted, filled with overexplanation, clichés, and lingo no human would ever use, like two bots stuck in a loop. “Want to catch a beer?” a buddy asks Adam Sandler in _Murder Mystery_:
+
+----
+“What are these movies?” the Hollywood producer asked me. “Are they successful movies? Are they not? They have famous people in them. They get put out by major studios. And yet because we don’t have any reliable numbers from the streamers, we actually don’t know how many people have watched them. So what are they? If no one knows about them, if no one saw them, are they just something that people who are in them can talk about in meetings to get other jobs? Are we all just trying to keep the ball rolling so we’re just getting paid and having jobs, but no one’s really watching any of this stuff? When does the bubble burst? No one has any fucking clue.”
