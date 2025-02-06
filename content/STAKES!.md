@@ -1,3 +1,8 @@
+---
+draft: true
+date: 2/5/2025
+---
+
 https://bcheong.medium.com/the-ageless-mimesis-ai-as-mirror-of-times-absence-0d24b4331019
 > Heideggerian care (_Sorge_) — the existential structure that binds Dasein to its world — is “permeated with nullity” because it arises from the tension between facticity and possibility. To care is to be invested in a world that resists and eludes us. The AI, however, does not care. Its “concern” is algorithmic mimicry, a facsimile of engagement devoid of stakes. When it answers a query about grief or joy, it does not draw from the wellspring of lived experience but from the arid plains of tokenized data. It is a they-self without a self, a mirror that reflects the anxieties of its users while remaining untouched by them.
 

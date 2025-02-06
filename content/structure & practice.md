@@ -9,7 +9,6 @@ A quick orientation to the structure of this site!
 
 ## Theory & inspiration
 I've been heavily inspired by hypertext garden / digital garden approach to online media — [place-based framing of the internet](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/) and its sites that **prioritizes agential exploration over passive consumption**. In the balance between [[the Garden & the Stream]], I want this site to land solidly in the "Garden". That's one of the reasons why I picked up [Obsidian](https://obsidian.md/) and [Quartz](https://quartz.jzhao.xyz/) for this, because the Wikilinks structure allows my notes and thoughts to manifest as a network that readers can meander through at their leisure.
-(spencer chang, gather, arena)
 
 Another inspiration was Jacky Zhao's approach to [networked thought](https://jzhao.xyz/posts/networked-thought). Seeing this as a rhizomatic / spiralling-out practice of nodes and connections is also closely aligned with my thoughts on plurality and a polytheistic self. If I am [[you are the glue-sticked collage |a glue-sticked collage]], then this digital second brain should take that form as well!
 
