@@ -10,7 +10,10 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Substack": "https://joellene.substack.com/",
       Github: "https://github.com/joelleneyap",
-      "LinkedIn": "https://www.linkedin.com/in/joellene-yap/"
+      "LinkedIn": "https://www.linkedin.com/in/joellene-yap/",
+      "Twitter": "https://x.com/hug_starved",
+      "Letterboxd": "https://boxd.it/E5h3",
+      "Storygraph": "https://app.thestorygraph.com/profile/joellene"
     },
   }),
 }
