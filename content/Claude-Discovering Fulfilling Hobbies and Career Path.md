@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Discovering Fulfilling Hobbies and Career Path
 
 **Created:** 4/25/2025 11:16  

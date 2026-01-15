@@ -13,6 +13,7 @@ Take your time, and take a stroll! Some pointers for places to start:
 * The [[AO3xNetworkX project!]]: my magnum opus of Summer 2024!
 * Some polished [[page|essays]] on digital mediums and science & tech studies
 * [[diary|Personal reflections]] and [[motif|life motifs]]
+* What I'm [[movies of 2026 |watching]] and what I'm [[books of 2026|reading]]
 
 If you're up for anything, feel free to hop through the nodes on the graph at the bottom of this page!
 

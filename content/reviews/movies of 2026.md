@@ -1,7 +1,7 @@
 ---
 tags:
   - review
-draft: true
+draft: false
 date: "2026"
 title: movies of 2026
 ---
