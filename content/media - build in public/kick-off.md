@@ -1,6 +1,7 @@
 ---
 tags:
   - media
+  - page
 date: 1/21/2026
 draft: false
 ---

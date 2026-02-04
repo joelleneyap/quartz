@@ -2,6 +2,7 @@
 draft: false
 tags:
   - media
+  - page
 date: 1/22/2026
 title: back in theatres
 ---
