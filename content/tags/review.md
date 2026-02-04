@@ -1,6 +1,7 @@
 ## annuals
 * [[movies of 2026]]
 * [[books of 2026]]
+* [[shows of 2026]]
 ## indivs
 * [[barbie 2023]]
 * del toro

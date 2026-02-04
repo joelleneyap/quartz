@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 date: 2/5/2025
+tags:
+  - clipping
 ---
 
 https://bcheong.medium.com/the-ageless-mimesis-ai-as-mirror-of-times-absence-0d24b4331019

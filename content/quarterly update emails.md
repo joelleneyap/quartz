@@ -1,3 +1,9 @@
+---
+tags:
+  - diary
+draft: false
+---
+
 # 1Q25
 
 Hello!

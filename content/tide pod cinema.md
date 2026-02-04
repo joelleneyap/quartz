@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 1/4/2025
 tags:
   - clipping
